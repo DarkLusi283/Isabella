@@ -3,7 +3,7 @@ from pyrogram import Client, filters
 import openai
 
 # Set up your OpenAI API credentials
-openai.api_key = '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'
+openai.api_key = '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'
 
 # Create a Pyrogram bot instance
 bot = Client('6246848845:AAFJn1YnOt0Wy_vyroDF6i_1SKCd84f9QSw')
