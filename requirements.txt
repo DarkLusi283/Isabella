@@ -1,2 +1,5 @@
 pyrogram
 openai
+
+API_KEY='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'
+BOT_TOKEN='6246848845:AAFJn1YnOt0Wy_vyroDF6i_1SKCd84f9QSw'
